@@ -1,3 +1,5 @@
+# https://dx.doi.org/10.30693/SMJ.2023.12.11.103
+
 # Attention-LSTM_for_battery_SOH_prediction
 
 # 논문을 재현하는 방법은 아래와 같습니다.
