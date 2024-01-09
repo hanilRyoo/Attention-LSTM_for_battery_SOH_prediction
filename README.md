@@ -1,4 +1,4 @@
-# https://dx.doi.org/10.30693/SMJ.2023.12.11.103
+# The address of the thesis : https://dx.doi.org/10.30693/SMJ.2023.12.11.103
 
 # Attention-LSTM_for_battery_SOH_prediction
 
